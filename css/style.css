@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+
+.logo{
+    height: 90px;
+}
+
+.footer-flex div {
+    display: flex;
+    justify-content: center;
+    }
+    .redes {
+        margin: 10px 7px 15px 7px;
+    }
+    .servicios {
+        display: flex;
+    flex-direction:column;
+    height: 90%;
+    }
+
+    aside {
+    
+    
+        padding: 30px;
+        
+    }
+   
+    section {
+       padding: 30px;
+       }
+   
